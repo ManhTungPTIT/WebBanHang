@@ -1,0 +1,17 @@
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\bin\Debug\net7.0\MyProject.DomainService.deps.json
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\bin\Debug\net7.0\MyProject.DomainService.runtimeconfig.json
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\bin\Debug\net7.0\MyProject.DomainService.dll
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\bin\Debug\net7.0\MyProject.DomainService.pdb
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.csproj.AssemblyReference.cache
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.AssemblyInfoInputs.cache
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.AssemblyInfo.cs
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.csproj.CoreCompileInputs.cache
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.dll
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\refint\MyProject.DomainService.dll
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.pdb
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.genruntimeconfig.cache
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\ref\MyProject.DomainService.dll
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\bin\Debug\net7.0\MyProject.Models.dll
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\bin\Debug\net7.0\MyProject.Models.pdb
+D:\Study\WebBanHang\MyProject\MyProject.DomainService\obj\Debug\net7.0\MyProject.DomainService.csproj.CopyComplete

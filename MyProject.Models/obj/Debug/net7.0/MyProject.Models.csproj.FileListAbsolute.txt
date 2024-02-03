@@ -1,0 +1,14 @@
+D:\Study\WebBanHang\MyProject\MyProject.Models\bin\Debug\net7.0\MyProject.Models.deps.json
+D:\Study\WebBanHang\MyProject\MyProject.Models\bin\Debug\net7.0\MyProject.Models.runtimeconfig.json
+D:\Study\WebBanHang\MyProject\MyProject.Models\bin\Debug\net7.0\MyProject.Models.dll
+D:\Study\WebBanHang\MyProject\MyProject.Models\bin\Debug\net7.0\MyProject.Models.pdb
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.csproj.AssemblyReference.cache
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.AssemblyInfoInputs.cache
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.AssemblyInfo.cs
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.csproj.CoreCompileInputs.cache
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.dll
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\refint\MyProject.Models.dll
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.pdb
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\MyProject.Models.genruntimeconfig.cache
+D:\Study\WebBanHang\MyProject\MyProject.Models\obj\Debug\net7.0\ref\MyProject.Models.dll
